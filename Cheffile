@@ -13,9 +13,9 @@ cookbook "openssl"
 cookbook "database"
 cookbook "mysql"
 
-cookbook "nodejs-cookbook",
+cookbook "nodejs",
   :git => 'https://github.com/mdxp/nodejs-cookbook'
-cookbook "chef-redis",
+cookbook "redis",
   :git => 'https://github.com/ctrabold/chef-redis'
 
 
