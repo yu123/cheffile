@@ -11,7 +11,6 @@ cookbook "unicorn"
 cookbook "imagemagick"
 cookbook "openssl"
 cookbook "database"
-cookbook "mysql"
 
 cookbook "nodejs",
   :git => 'https://github.com/mdxp/nodejs-cookbook'
